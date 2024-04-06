@@ -7,3 +7,4 @@ public class AccountProfilePage {
     public static final By PROFILE_NAME_TEXT = By.xpath("//h1[@class='account__information-username']");
     public static final By PROFILE_EMAIL_TEXT = By.xpath("//h1[@class='account__information-email']");
 }
+
